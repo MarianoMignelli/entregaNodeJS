@@ -1,0 +1,24 @@
+{
+  "name": "entrega-node",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de JavaScript con NodeJS en Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianoMignelli/entregaNodeJS.git"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
+  "author": "Mariano Mignelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianoMignelli/entregaNodeJS/issues"
+  },
+  "homepage": "https://github.com/MarianoMignelli/entregaNodeJS#readme"
+}
